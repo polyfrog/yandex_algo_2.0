@@ -1,3 +1,5 @@
+# https://contest.yandex.ru/contest/28730/problems/A/
+
 def interactor(r, i, c):
     if i == 0:
         return 3 if r != 0 else c
